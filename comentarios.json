@@ -1,0 +1,114 @@
+{
+  "comentarios": [
+    {
+      "usuario": "fitgirl01",
+      "fecha": "2022-01-01",
+      "comentario": "Hoy logré hacer 5 series de 10 repeticiones de peso muerto con mi máximo peso, ¡me siento increíble!"
+    },
+    {
+      "usuario": "gymaddict",
+      "fecha": "2022-01-02",
+      "comentario": "Otra sesión de gimnasio, otra oportunidad de superarme a mí mismo. ¡Vamos!"
+    },
+    {
+      "usuario": "johndoe",
+      "fecha": "2022-01-03",
+      "comentario": "No sé si es el aire acondicionado o el sudor, pero aquí dentro hace un calor infernal. ¡Qué ganas de terminar el entrenamiento!"
+    },
+    {
+      "usuario": "fitnessfanatic",
+      "fecha": "2022-01-04",
+      "comentario": "Me encanta venir al gimnasio después del trabajo, me ayuda a despejar la mente y a dormir mejor por la noche."
+    },
+    {
+      "usuario": "workoutwarrior",
+      "fecha": "2022-01-05",
+      "comentario": "Hoy me costó muchísimo hacer mi rutina de brazos, pero no me di por vencido y la terminé. ¡El dolor vale la pena!"
+    },
+    {
+      "usuario": "cardioking",
+      "fecha": "2022-01-06",
+      "comentario": "El cardio siempre ha sido mi debilidad, pero hoy me propuse hacer 45 minutos en la cinta y lo logré. ¡Increíble sensación!"
+    },
+    {
+      "usuario": "newbiegymgoer",
+      "fecha": "2022-01-07",
+      "comentario": "Me siento intimidado por tanta gente fuerte y en forma, pero estoy aquí para mejorar mi salud y voy a seguir adelante."
+    },
+    {
+      "usuario": "fitmom",
+      "fecha": "2022-01-08",
+      "comentario": "Es difícil encontrar tiempo para el gimnasio con los niños y el trabajo, pero estoy comprometida con mi salud y haré lo necesario."
+    },
+    {
+      "usuario": "lazygymgoer",
+      "fecha": "2022-01-09",
+      "comentario": "No sé por qué me cuesta tanto venir al gimnasio, pero hoy lo hice y espero que se convierta en un hábito."
+    },
+    {
+      "usuario": "bulkingbeast",
+      "fecha": "2022-01-10",
+      "comentario": "Mi objetivo es ganar masa muscular y estoy trabajando duro en ello. ¡Nada me detendrá!"
+    },
+    {
+      "usuario": "fitgirl02",
+      "fecha": "2022-01-11",
+      "comentario": "Me encanta hacer yoga después del entrenamiento, me ayuda a relajarme y a recuperarme."
+    },
+    {
+      "usuario": "cardioqueen",
+      "fecha": "2022-01-12",
+      "comentario": "Hice mi clase de spinning de 60 minutos y todavía tengo energía para más. ¡Me encanta este sentimiento!"
+    },
+    {
+      "usuario": "fitgirl01",
+      "fecha": "2022-03-01",
+      "comentario": "Hoy fue una excelente sesión de gimnasio, logré hacer mi rutina completa y sentí que estaba en mi mejor forma."
+    },
+    {
+      "usuario": "gymjunkie",
+      "fecha": "2022-03-01",
+      "comentario": "El gimnasio estaba demasiado lleno hoy y me costó trabajo concentrarme en mi entrenamiento. Espero que mañana sea mejor."
+    },
+    {
+      "usuario": "johndoe",
+      "fecha": "2022-03-02",
+      "comentario": "Hoy no tenía muchas ganas de venir al gimnasio, pero me obligué a hacerlo y terminé sintiéndome mucho mejor."
+    },
+    {
+      "usuario": "fitnessfanatic",
+      "fecha": "2022-03-03",
+      "comentario": "Mi entrenador me ayudó a mejorar mi técnica en levantamiento de pesas y logré levantar más peso que nunca antes. ¡Increíble sensación!"
+    },
+    {
+      "usuario": "workoutwarrior",
+      "fecha": "2022-03-03",
+      "comentario": "No pude completar mi rutina hoy debido a una lesión en el hombro. Me siento frustrado y decepcionado conmigo mismo."
+    },
+    {
+      "usuario": "cardioking",
+      "fecha": "2022-03-04",
+      "comentario": "Siempre he odiado el cardio, pero hoy me divertí mucho haciendo una clase de baile aeróbico. ¡Quiero más!"
+    },
+    {
+      "usuario": "newbiegymgoer",
+      "fecha": "2022-03-04",
+      "comentario": "Me sentí muy inseguro al principio, pero algunos de los otros miembros del gimnasio fueron muy amables y me ayudaron a sentirme más cómodo."
+    },
+    {
+      "usuario": "fitmom",
+      "fecha": "2022-03-05",
+      "comentario": "Es difícil encontrar tiempo para el gimnasio con los niños y el trabajo, pero estoy comprometida con mi salud y haré lo necesario."
+    },
+    {
+      "usuario": "lazygymgoer",
+      "fecha": "2022-03-05",
+      "comentario": "No pude venir al gimnasio hoy porque estaba demasiado cansado después del trabajo. Me siento decepcionado conmigo mismo por no tener más energía."
+    },
+    {
+      "usuario": "bulkingbeast",
+      "fecha": "2022-03-06",
+      "comentario": "Hoy logré mi objetivo de levantar más de 100 kg en press de banca. ¡Me siento invencible!"
+    }
+  ]
+}
