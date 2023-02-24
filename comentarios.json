@@ -158,5 +158,55 @@
     "usuario": "unhappygymgoer",
     "fecha": "2022-01-09",
     "comentario": "I've had multiple bad experiences with the staff here. They're not accommodating at all."
+  },
+  "comentario33": {
+    "usuario": "FitnessFan123",
+    "fecha": "2022-01-12",
+    "comentario": "I love this gym! It's always clean and the equipment is top-notch."
+  },
+  "comentario34": {
+    "usuario": "IronMaiden",
+    "fecha": "2022-01-14",
+    "comentario": "The staff here is amazing, they're always willing to help and answer any questions I have."
+  },
+  "comentario35": {
+    "usuario": "FitFam4Life",
+    "fecha": "2022-01-16",
+    "comentario": "I really appreciate the variety of classes offered here. It keeps my workouts interesting!"
+  },
+  "comentario36": {
+    "usuario": "GymNewbie",
+    "fecha": "2022-01-18",
+    "comentario": "I'm new to working out and this gym has made me feel really comfortable. The trainers are patient and supportive."
+  },
+  "comentario37": {
+    "usuario": "SwoleSister",
+    "fecha": "2022-01-20",
+    "comentario": "I've been a member here for a year and I still look forward to coming in every day. That says something!"
+  },
+  "comentario38": {
+    "usuario": "MuscleMan",
+    "fecha": "2022-01-22",
+    "comentario": "The weight room here has everything I need for a killer workout. Love it."
+  },
+  "comentario39": {
+    "usuario": "CardioQueen",
+    "fecha": "2022-01-24",
+    "comentario": "The cardio machines are always in good condition and I never have to wait for one to free up."
+  },
+  "comentario40": {
+    "usuario": "GymRat",
+    "fecha": "2022-01-26",
+    "comentario": "The atmosphere here is so motivating. Everyone is working hard and pushing themselves to be better."
+  },
+  "comentario41": {
+    "usuario": "HealthyHabits",
+    "fecha": "2022-01-28",
+    "comentario": "The smoothie bar is a great touch! I love being able to refuel after a workout without leaving the gym."
+  },
+  "comentario42": {
+    "usuario": "FitnessJunkie",
+    "fecha": "2022-01-30",
+    "comentario": "I'm obsessed with the group fitness classes here. The instructors are top-notch and the routines are always challenging."
   }
 }
