@@ -1,0 +1,34 @@
+{
+    "chest": [
+        {
+            "name": "Bench Press (Dumbbell)"
+        },
+        {
+            "name": "Chest Dip (Weighted)"
+        },
+        {
+            "name": "Incline Push Ups"
+        },
+        {
+            "name": "Floor Press (Barbell)"
+        },
+        {
+            "name": "Pendlay Row"
+        },
+        {
+            "name": "Bench Press - Wide Grip (Barbell)"
+        },
+        {
+            "name": "Plate Press"
+        },
+        {
+            "name": "Around The World"
+        },
+        {
+            "name": "Push Up (Weighted)"
+        },
+        {
+            "name": "Pullover (Dumbbell)"
+        }
+    ]
+}
