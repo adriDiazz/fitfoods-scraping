@@ -1,34 +1,1259 @@
 {
     "chest": [
         {
-            "name": "Bench Press (Dumbbell)"
+            "name": "Bench Press (Dumbbell)",
+            "steps": [
+                [
+                    "Set an adjustable gym bench into a flat position.",
+                    "Grab a pair of dumbbells, sit on the gym bench, and place both weights on top of your thighs.",
+                    "Bring your shoulders back, engage your abs, take a breath, and flex your arms.",
+                    "Kick both dumbbells up with your thighs as you lie back. Doing so will allow you to get in position on the bench and position the dumbbells over your chest.\u00a0",
+                    "With your arms straight and dumbbells over your chest, dig your shoulder blades into the bench and place your feet flat on the floor.\u00a0",
+                    "Take another breath and lower both dumbbells to your sides. Keep your elbows somewhat tucked; avoid flaring them to your sides.",
+                    "Lower the weights until your elbows are at torso level, and hold the bottom position for a second.",
+                    "Press both dumbbells to the starting position, bringing them together and straightening your arms. Exhale near the top.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/02891201-Dumbbell-Bench-Press_Chest.mp4"
+            ]
         },
         {
-            "name": "Chest Dip (Weighted)"
+            "name": "Chest Dip (Weighted)",
+            "steps": [
+                [
+                    "Attach a weight plate to yourself via a special belt or put on a weight vest.",
+                    "Step on the platform and grab the parallel bars while keeping your arms straight and close to your body. Alternatively, grab the bars and jump as you engage your triceps to get to the top if your dip stand doesn\u2019t have footplates.",
+                    "Bring your shoulders back and down, engage your abs, squeeze your glutes, and take a breath.",
+                    "Take your feet off the platform to suspend yourself in the air and support yourself through your upper body musculature.",
+                    "Lean forward slightly to put your pectoralis major in a better position to work during the exercise.",
+                    "Take another breath and lower yourself (dip) by bending your elbows. Keep your shoulder blades retracted and your body in a stable position.",
+                    "Move down until your elbows form a 90-degree angle and hold the bottom position for a moment. Alternatively, descend slightly less if going all the way down leads to shoulder discomfort.",
+                    "Contract your triceps and pectorals to press yourself back to the top, extending your arms fully. Exhale near the top.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00091201-Assisted-Chest-Dip-(kneeling)_Chest.mp4",
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/12691201-Cable-Standing-Up-Straight-Crossovers_Chest.mp4"
+            ]
         },
         {
-            "name": "Incline Push Ups"
+            "name": "Incline Push Ups",
+            "steps": [
+                [
+                    "Stand in front of an elevated object, such as a chair, plyo box, or gym bench. Ensure the object is secure and won\u2019t slide away when you press against it.",
+                    "With your hands shoulder-width apart, place them on the elevated object and extend your body. Your shoulders, hips, knees, and ankles should be in a straight line.",
+                    "Bring your shoulders back and make sure that your elbows are close to your torso and pointing back and slightly to the side.",
+                    "Engage your abs and squeeze your glutes to ensure a stable body position.",
+                    "Take a breath and lower your torso to the elevated object by bending your elbows.\u00a0",
+                    "Descend until your chest taps the surface lightly, hold the position for a moment, then push yourself to the starting position. Exhale on your way up.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/37851201-Incline-Push-Up-(on-box).mp4"
+            ]
         },
         {
-            "name": "Floor Press (Barbell)"
+            "name": "Floor Press (Barbell)",
+            "steps": [
+                [
+                    "Set the barbell inside a squat rack or stand at a height where you can reach it from a lying position. As you lie on the floor, you should be able to grab the bar and unrack it without extending your arms completely.",
+                    "Lie on the floor with your forehead directly underneath the bar.",
+                    "Reach up and grab the bar with a double overhand grip. Envelop the bar with your thumbs for an extra secure grip. Use the same width you do for the regular bench press\u2013\u2013having your hands slightly more than shoulder-width apart.",
+                    "Straighten your legs, bring your shoulders back to the floor, engage your abs, and squeeze your glutes.",
+                    "Take a breath and unrack the barbell by extending your arms.",
+                    "Bring the bar over your chest.",
+                    "Take another breath and lower the bar slowly until your triceps are in contact with the floor. Going down slowly is crucial because hitting the floor with your arms can lead to a wrist injury.",
+                    "Tap the floor with your arms and press the bar to the top, extending your elbows and doing a full range of motion.",
+                    "Take another breath and repeat.",
+                    "Once finished, bring the barbell back, position it over the safety pins, and rest it carefully."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05771201-Lever-Chest-Press_Chest.mp4"
+            ]
         },
         {
-            "name": "Pendlay Row"
+            "name": "Pendlay Row",
+            "steps": [
+                [
+                    "Load the barbell and position it on the floor and in front of you.\u00a0",
+                    "Stand in front of the bar with your feet in a comfortable stance and toes pointing slightly out.",
+                    "Lean forward and bend your knees enough to grab the bar with a double overhand grip without moving or lifting it.\u00a0",
+                    "Bring your shoulders back as much as possible to straighten your back. Your shoulders should be slightly in front of the barbell and higher than your hips. The starting position resembles conventional deadlifts, with the only difference being the small distance between your shins and the bar.",
+                    "Take a breath and row the barbell to your chest smoothly.",
+                    "Touch your torso with the bar, holding the top position for a moment, and release.",
+                    "Lower the barbell slowly and rest it on the floor as you exhale.",
+                    "Take another breath and row the barbell from a dead stop, pausing at the top.",
+                    "Repeat until you\u2019re done.\u00a0"
+                ]
+            ],
+            "video": []
         },
         {
-            "name": "Bench Press - Wide Grip (Barbell)"
+            "name": "Bench Press - Wide Grip (Barbell)",
+            "steps": [
+                [
+                    "Set the barbell at a position that allows you to reach up and grab it without extending your arms completely. Your arms should be bent slightly as you lie on the bench and grab the bar.",
+                    "Once you\u2019ve set the barbell, lie on the bench and position yourself so the bar is directly over your forehead.",
+                    "Reach up and grab the bar with an overhand grip. Use your thumbs to envelop the bar for extra support and safety.",
+                    "Start with your hands shoulder-width apart and use a wider grip on each new set.",
+                    "Retract your shoulder blades and dig them into the bench as you take your chest out.",
+                    "Bring your feet back and in toward the bench by flexing your knees. Dig the balls of your feet into the floor and have your heels in the air.",
+                    "Engage your upper body, squeeze your glutes, activate your quadriceps, take a breath, and unrack the barbell by flexing your triceps.",
+                    "Bring the bar over your chest carefully.",
+                    "Take another breath and lower the barbell to the bottom position (lower chest; nipple line) without allowing your elbows to flare.",
+                    "Bring the bar to your chest, tap it lightly and push the bar back to the top position, squeezing your triceps, shoulders, and pectorals. Exhale near the top.\u00a0",
+                    "Take another breath and repeat.",
+                    "Once finished, bring the bar back over the safety pins and set it down."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/01221201-Barbell-Wide-Bench-Press_Chest.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05771201-Lever-Chest-Press_Chest.mp4"
+            ]
         },
         {
-            "name": "Plate Press"
+            "name": "Plate Press",
+            "steps": [
+                [
+                    "Grab a weight plate evenly, extend your arms, and have the bottom supported against your upper thighs. Start with a 10 or 15-lb plate to get a good feel for the movement.",
+                    "Bring your shoulders back and down, engage your abs, squeeze your glutes, and raise the weight plate horizontally and in front of your chest. Keep your elbows extended and have your wrists in a neutral position (facing one another).",
+                    "Have your feet hip-width apart with toes pointing slightly out and heels in contact with the floor. Maintain a slight bend in your knees.",
+                    "Take a breath and bring the weight plate to your chest muscles without flaring your elbow. Draw the plate in until it taps your torso.",
+                    "Press the plate forward and slightly up, squeezing your chest as hard as possible near the top. The plate should end at chest level or slightly higher. Use a moderate tempo and focus on engaging your chest from the moment you start pressing forward.",
+                    "Exhale just as your elbows extend to complete the repetition. Don\u2019t press the weight too forcefully, as doing so can cause instability near the top of the repetition.",
+                    "Take another breath as you bring the plate to your torso again, and repeat."
+                ]
+            ],
+            "video": []
         },
         {
-            "name": "Around The World"
+            "name": "Around The World",
+            "steps": [
+                [
+                    "Lie on a flat bench with a light dumbbell in each hand.\u00a0",
+                    "Have the dumbbells over your torso with your elbows slightly bent and palms facing one another.",
+                    "Bring your shoulders back, engage your abs, and slowly move the weights to the sides of your hips as you turn your wrists to point at the ceiling.",
+                    "Take a breath and move the dumbbells to your sides in large arc motions.",
+                    "Move the weights from your hips to behind your head, where you have to pause for a moment.",
+                    "Return the dumbbells to the starting position in the same arc motion to hip level, exhaling near the end of the repetition.",
+                    "Take another breath and move the dumbbells behind your head again."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/02881201-Dumbbell-Around-Pullover_Chest.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03081201-Dumbbell-Fly_Chest.mp4"
+            ]
         },
         {
-            "name": "Push Up (Weighted)"
+            "name": "Push Up (Weighted)",
+            "steps": [
+                [
+                    "Get down on your knees and hands.",
+                    "Straighten your legs to support your lower body on your toes and have your feet at a hip-width distance.\u00a0",
+                    "Position your hands slightly wider than shoulder-level apart and keep your elbows tucked to prevent shoulder issues.",
+                    "Engage your abs to ensure a neutral spine position.",
+                    "Have someone place a weight plate on your mid-back. Alternatively, place the weight on your back before extending your body in the push-up position. The third option is to put a weighted vest on yourself before getting down on the floor.",
+                    "Take a breath and lower yourself by bending your elbows.",
+                    "Go down as much as your strength allows\u2013\u2013ideally until your torso is a couple of inches from the floor.",
+                    "Hold the bottom position for a moment and press yourself to the top, extending your elbows, and exhaling.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/11721201-Assisted-Weighted-Push-up_Chest.mp4"
+            ]
         },
         {
-            "name": "Pullover (Dumbbell)"
+            "name": "Pullover (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a light weight, sit on a flat bench, and support the dumbbell on one thigh.",
+                    "Place both hands over the dumbbell and lift it to chest level.",
+                    "Lie back carefully and extend your elbows to position the dumbbell over your chest.\u00a0",
+                    "Place your hands flat against the top weight plate with your palms facing the ceiling and the dumbbell vertical. Keep a slight bend in your elbows.",
+                    "Bring your shoulder blades back, have your feet flat on the floor, and squeeze your buttocks to complete the starting position.",
+                    "Take a breath and slowly lower the dumbbell back behind your head without bending your elbows.",
+                    "Go down as much as your mobility allows to increase the range of motion, hold for a moment, and bring your arms to the starting position. Exhale near the top.",
+                    "Take another breath and lower the dumbbell through the same range of motion."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03751201-Dumbbell-Pullover_Chest.mp4"
+            ]
         }
-    ]
+    ],
+    "shoulders": [
+        {
+            "name": "Face Pull",
+            "steps": [
+                [
+                    "Select the load on the cable machine. Start with no more than 20 to 25 pounds.\u00a0",
+                    "Attach a rope in the high position of the cable machine.",
+                    "Grab the rope with both hands and have your thumbs facing the ceiling.",
+                    "With your arms straight, take a step back to lift the weight off its stack.",
+                    "Bring your chest out and shoulder blades back.",
+                    "Engage your abs, stagger your stance, and lean back slightly for balance.",
+                    "Take a breath and pull the rope toward your face. Pull and split the rope so your hands end up on either side of your head. Your elbows should be at shoulder level.",
+                    "Hold the top position for a moment, engaging your rear deltoids as best as possible.",
+                    "Release the rope slowly and exhale.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Seated Overhead Press (Barbell)",
+            "steps": [
+                [
+                    "Adjust the back support of a gym bench to an upright position (90-degree angle) and place it facing away from a barbell rack. The distance between the bar and bench should be small, so you can grab the barbell without having to reach too far back.",
+                    "Set the barbell at a height that allows you to reach it seated while maintaining a slight bend in your elbows. Doing so is vital for safe unracking and re-racking because all you have to do is straighten your arms to elevate the bar.",
+                    "Sit on the bench and put your back against the back support. Plant your feet into the floor and maintain a 90-degree angle at your knees.",
+                    "Bring your upper back into the bench, reach up, and grab the barbell with an even overhand grip. Your hands should be slightly more than shoulder-width apart.",
+                    "Engage your abs, take a breath, and extend your arms to unrack the barbell from its rack.",
+                    "Bring the bar overhead for the starting position while keeping your torso rigid and in position.",
+                    "Take another breath and lower the barbell to below your chin level, being careful not to hit your nose on the way down.",
+                    "Lower the bar until your elbows are slightly lower than your shoulders, hold for a moment, and press the barbell back to the top, exhaling near the end.",
+                    "Once finished, bring the barbell back and place it over the rack before relaxing your upper body."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Plate Front Raise",
+            "steps": [
+                [
+                    "Grab a plate that is light enough for you to do at least ten smooth repetitions.",
+                    "Position your hands at two opposite sides of the plate with your arms straight and to your sides.",
+                    "Bring your shoulders back, position your feet at roughly hip-width level, direct your gaze forward, and take a breath.",
+                    "Engage your shoulders and chest muscles to lift the plate in front of you as you keep your arms straight.",
+                    "Lift the plate until your arms become parallel with the floor and hold for a moment.",
+                    "As you exhale, slowly bring the plate back to the starting position where it rests lightly against your upper thighs. Keep your arms unbent throughout the entire repetition.",
+                    "Take another breath and repeat the motion."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03101201-Dumbbell-Front-Raise_Shoulders.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/11651201-Barbell-Standing-Military-Press-(without-rack)_Shoulders.mp4"
+            ]
+        },
+        {
+            "name": "Standing Military Press (Barbell)",
+            "steps": [
+                [
+                    "Position the barbell at roughly collarbone height on a rack or stand. Begin with a light weight to get a good feel for the movement before adding more plates.",
+                    "Stand a few inches away from the bar and grab it with an overhand grip. Use a slightly wider than shoulder-width grip.",
+                    "With your hands gripping the bar, tuck yourself underneath, ensure that your shoulders are back, take a breath, engage your glutes, and push through your legs to unrack the bar.",
+                    "With your elbows tucked in, back straight, and gaze forward, take a couple of steps back and have your feet at hip-width distance.",
+                    "From this position, take a deep breath, engage your abs, and push through your elbows in a vertical line. Don\u2019t bend and extend your knees to create momentum.",
+                    "Push until your elbows lockout and, as you exhale, slowly lower the bar until it\u2019s at around neck level.",
+                    "Take another breath and press up again."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/11651201-Barbell-Standing-Military-Press-(without-rack)_Shoulders.mp4"
+            ]
+        },
+        {
+            "name": "Push Press",
+            "steps": [
+                [
+                    "Place the barbell in a front rack position: your hands outside shoulder-width level with a full grip on the bar as it sits atop your shoulders.",
+                    "Your elbows should be positioned in front of the bar, and you should keep it pressed against your body to prevent forward rolling.",
+                    "Position your feet at roughly hip-width level with toes pointed slightly out.",
+                    "Take a deep breath and initiate the dip phase by bending your knees and hips while keeping your torso upright. The descend doesn\u2019t have to be quick; instead, aim to make it a smooth motion.",
+                    "As you dip a few inches, change the direction by pushing through your heels to extend your knees and hips.",
+                    "As your hips and knees extend, use your lower body\u2019s momentum to push through your torso and lift the bar off your shoulders.",
+                    "From there, immediately push through your elbows to extend the bar above your head. These two steps should happen in one smooth and seamless motion.",
+                    "Assume a strong lockout position by extending your elbows fully, keeping your torso upright, and having your hips and knees extended.",
+                    "Exhale and slowly lower the barbell to the initial position, resting atop your shoulders.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/11651201-Barbell-Standing-Military-Press-(without-rack)_Shoulders.mp4"
+            ]
+        },
+        {
+            "name": "Lateral Raise (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of dumbbells that are light enough for you to do at least twelve repetitions per set.",
+                    "Stand tall with the dumbbells to your sides and palms facing in.",
+                    "Bring your shoulders back, direct your gaze forward, and take a breath. Make sure that both of your arms are straight.",
+                    "Raise both dumbbells to your sides by engaging your delts and lift them to the point where your arms are parallel to the floor. Don\u2019t bend your elbow at any point during the lift.",
+                    "Hold the top position for a second as you exhale, and slowly lower both of your arms to the starting position.",
+                    "It\u2019s essential to perform each repetition with a smooth form and without the use of momentum."
+                ]
+            ],
+            "video": []
+        }
+    ],
+    "traps": [
+        {
+            "name": "Upright Row (Barbell)",
+            "steps": [
+                [
+                    "Grab a barbell with an overhand grip at a shoulder-width level or slightly narrower.",
+                    "With the bar in your hands, stand tall, bring your chest out, direct your gaze forward, and position your feet about hip-width apart with toes pointed slightly out.",
+                    "Engage your abs, take a breath, and begin to row the barbell toward your chin by taking your elbows out and to the sides.",
+                    "Row the barbell to collarbone height, hold for a moment, exhale, and lower it to the starting position in a controlled manner.",
+                    "Take another breath and repeat the movement."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/01211201-Barbell-Upright-Row_Shoulders.mp4"
+            ]
+        },
+        {
+            "name": "Shrug (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of moderately-heavy dumbbells and position them to your sides with your arms straight and palms facing your thighs.",
+                    "Bring your chest out, engage your glutes, and direct your gaze forward.",
+                    "Take a breath and shrug your shoulders up to elevate the dumbbells. Keep your arms straight and avoid bending your elbows throughout the movement.",
+                    "Shrug as high as you can, hold the contraction for a second, exhale, and bring them to the starting position.",
+                    "Take a breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/04061201-Dumbbell-Shrug_Back.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/01211201-Barbell-Upright-Row_Shoulders.mp4"
+            ]
+        }
+    ],
+    "biceps": [
+        {
+            "name": "Behind the Back Bicep Wrist Curl (Barbell)",
+            "steps": [
+                [
+                    "Place an empty barbell on a rack positioned at mid-thigh level.",
+                    "Face away from the barbell and grab it evenly with your palms facing back.",
+                    "Brace your abs, take a breath, and unrack the barbell.\u00a0",
+                    "Bring your shoulders back, spread your feet hip-width apart, keep your abs tense, and squeeze your glutes. Your arms should be to your sides.",
+                    "Take a breath and curl the barbell by flexing your wrists as much as you can.",
+                    "Hold the top position for a moment and lower the barbell by extending your wrists. As the barbell moves down, allow it to roll to your fingertips. Exhale.",
+                    "Take another breath and curl the barbell again.",
+                    "Once finished, carefully place the barbell on the rack."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Concentration Curl",
+            "steps": [
+                [
+                    "Take a lightweight and sit on a flat gym bench.",
+                    "Spread your legs wide and place the dumbbell on the floor between your legs.",
+                    "Reach down and grab the weight with your right hand.",
+                    "Lift the weight off the floor and place the right tricep (upper arm) against your inner leg.",
+                    "Keep your chest out and body stable, take a breath, and straighten your arm.",
+                    "Curl the dumbbell slowly until your wrist is higher than your elbow. As the dumbbell moves up, keep your upper arm in the same position against your inner leg and avoid having it move up.",
+                    "Pause for a moment and squeeze your muscle at the top of the repetition. Your palm should face the ceiling.",
+                    "Lower the dumbbell slowly and extend your elbow entirely as you exhale. Feel the muscle work throughout all reps.",
+                    "Take another breath and repeat.",
+                    "Once finished, set the weight on the floor, reach with your opposite hand, and grab it.",
+                    "Set yourself up the same way, having your left tricep (upper arm) against your inner leg and your body stable.",
+                    "Repeat for the same number of reps, performing each slowly, and squeeze your upper arm at the top of each rep."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/02971201-Dumbbell-Concentration-Curl_Upper-Arms.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00381201-Barbell-Drag-Curl_Upper-Arms.mp4"
+            ]
+        },
+        {
+            "name": "Plate Curls",
+            "steps": [
+                [
+                    "Take a weight plate and grab it by its sides.\u00a0",
+                    "Position the plate in front of your hips with the bottom against your thighs.",
+                    "Bring your shoulder blades back, engage your abs, and take a breath.",
+                    "Curl the plate by bending your elbows.",
+                    "Lift the plate until your wrists are slightly higher than your elbows and hold the top position for a moment.",
+                    "Lower the plate slowly, exhaling on the way down. Extend your arms fully before initiating the next rep.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Reverse Curl",
+            "steps": [
+                [
+                    "Add weight to an EZ bar. Begin with roughly half of what you can bicep curl.",
+                    "Grab the bar with an even overhand grip with your hands shoulder-width apart.",
+                    "Stand tall, straighten your arms, and have the bar rest against your thighs.",
+                    "Bring your shoulders back, engage your abs, straighten your wrists, and take a breath.",
+                    "Curl the EZ bar up until your wrists are slightly higher than your elbows. Don\u2019t use momentum to lift the weight.",
+                    "Hold the top position for a moment. You should feel your biceps and the front of your forearms working. Don\u2019t let your wrists bend in any direction; have them in line with your forearms.",
+                    "Lower the EZ bar slowly, making sure to extend your elbows at the bottom as you exhale.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00801201-Barbell-Reverse-Curl_Forearm.mp4"
+            ]
+        },
+        {
+            "name": "Hammer Curl (Band)",
+            "steps": [
+                [
+                    "Take a looped or open-ended resistance band, step over the middle, bend forward, and grab both ends.",
+                    "Stand tall with your arms straight and wrists neutral to assume the starting position.",
+                    "Take a breath and slowly lift the resistance band.\u00a0",
+                    "Go up until your wrists are slightly higher than your elbows and hold the top position for a moment. Keep your elbows steady and to your sides.",
+                    "Lower your hands slowly, keeping the tension on your forearms and biceps.",
+                    "Extend your arms fully as you exhale.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Zottman Curl (Dumbbell)",
+            "steps": [
+                [
+                    "We emphasize the biceps and brachioradialis well on every repetition.\u00a0",
+                    "The rotational element of each repetition further engages our forearms and biceps.",
+                    "Alternating between two wrist positions forces us to use the appropriate weight and emphasize good technique."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/04391201-Dumbbell-Zottman-Curl_Upper-Arms-FIX.mp4"
+            ]
+        },
+        {
+            "name": "Pinwheel Curl (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of dumbbells and stand tall with your shoulders back, chest up, and eyes forward.",
+                    "Position both dumbbells slightly in front of your thighs with your palms facing in and back. Your wrists should be in line with your forearms.",
+                    "Take a breath and curl one dumbbell in toward your chest until it comes slightly higher than your elbow. Hold the position for a second.",
+                    "Exhale and lower the dumbbell to the starting position. Make sure to extend your elbow entirely.",
+                    "Repeat with your other arm.",
+                    "Keep repeating in an alternating fashion."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Bicep Curl (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of dumbbells and bring them to your sides with your arms straight. Have your palms neutral (facing your thighs).",
+                    "Position your feet in a comfortable stance, bend your knees slightly, bring your shoulders back, and squeeze your glutes.",
+                    "Take a breath, engage your abs, and curl the dumbbells up as you gradually rotate your wrists out. Your palms should be facing back at the top position.",
+                    "Curl the dumbbells until your wrists are slightly higher than your elbows and pause for a moment.",
+                    "Lower the dumbbells slowly and rotate your wrists in. As the dumbbells reach the bottom, your palms should be neutral (facing your thighs).",
+                    "Extend your elbows fully and exhale near the bottom.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/02941201-Dumbbell-Biceps-Curl_Upper-Arms.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/04021201-Dumbbell-Seated-Preacher-Curl_Upper-Arms.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/01561201-Cable-Curl_Upper-Arms.mp4"
+            ]
+        },
+        {
+            "name": "Hammer Curl (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of dumbbells that allow you to do at least ten smooth repetitions.",
+                    "Stand tall, bring your chest out, direct your gaze forward, and position both dumbbells to your sides. Your arms should be straight, and your palms should face your thighs.",
+                    "Take a breath and initiate the hammer curl by engaging your biceps while keeping your elbows in a stationary plane.",
+                    "Curl the dumbbells until your wrists are slightly more elevated than your elbows. Hold the contraction for a moment and exhale.",
+                    "Lower both dumbbells simultaneously until your elbows are straight.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03121201-Dumbbell-Hammer-Curl-(version-2)_Upper-Arms.mp4"
+            ]
+        },
+        {
+            "name": "Bicep Curl (Barbell)",
+            "steps": [
+                [
+                    "Start with an empty 20-kilo barbell.",
+                    "Grab the barbell with an even underhand grip (palms facing forward). Your hands should be shoulder-width apart or slightly wider.",
+                    "Bring your shoulders, engage your abs, and squeeze your glutes.",
+                    "Take a breath and curl the barbell until your wrists are slightly higher than your elbows.",
+                    "Hold the top position for a second, squeezing your biceps as you do.",
+                    "Lower the barbell slowly as you exhale on the way down. Extend your arms fully.",
+                    "Take another breath and curl the barbell again."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00311201-Barbell-Curl_Upper-Arms.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00801201-Barbell-Reverse-Curl_Forearm.mp4"
+            ]
+        }
+    ],
+    "forearms": [],
+    "obliques": [],
+    "abdominals": [
+        {
+            "name": "heel taps",
+            "steps": [
+                [
+                    "Lie on the floor, bend your knees, and put your feet flat on the floor.",
+                    "Have your arms to your sides, your spine in a neutral position, and your knees pointing to the ceiling.",
+                    "Take a breath, engage your abs, and raise your head and upper back off the floor.",
+                    "Crunch to the right, bringing your right hand to your right heel.\u00a0",
+                    "Once you tap your heel, straighten your torso and exhale.",
+                    "Take another breath and crunch to the left. Tap your left heel with your hand and go back to the starting position.",
+                    "Keep alternating between left and right until you finish the set."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Sit Ups",
+            "steps": [
+                [
+                    "Lie on the floor with your legs bent, feet flat on the floor, and knees pointing to the ceiling.\u00a0",
+                    "Bring your arms to your sides and place your fingertips behind your head, just above your neck.",
+                    "Engage your abs and take a breath. Lift your shoulder blades a couple of inches off the floor.",
+                    "Raise your torso toward your thighs by engaging your abs.",
+                    "Once your torso is close to your thighs, hold the position for a moment.",
+                    "Lower your torso back to the floor, exhaling on the way down. Keep your shoulders off the floor for the duration of the set.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00011201-3-4-Sit-up_Waist.mp4"
+            ]
+        },
+        {
+            "name": "Russian Twist (weighted)",
+            "steps": [
+                [
+                    "Sit on the floor with a light dumbbell, weight plate, or kettlebell by your side.\u00a0",
+                    "Grab the weight with both hands and hold it in front of your chest with your elbows bent. Lean your torso slightly back and engage your abs to stay in position.",
+                    "Cross your feet, bend your knees slightly, and lift your feet a few inches off the floor. Doing so will allow your body to form a V-shape.",
+                    "With your feet steady, take a breath, and twist your torso to the right. Initiate the movement from your midsection and allow your arms to follow naturally. Don\u2019t twist with your arms first because doing so will prevent optimal core engagement.",
+                    "Once you\u2019ve twisted to the right, exhale.",
+                    "As you bring your torso to the left, take another breath and immediately twist to the left.",
+                    "Keep alternating between left and right, breathing as you do."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/23711201-Weighted-Russian-Twist_Waist.mp4"
+            ]
+        },
+        {
+            "name": "Hollow Rock Hold",
+            "steps": [
+                [
+                    "Lie down on an exercise mat. Have your hands to your sides, feet together, and legs straight.",
+                    "Get a feel for the movement by contracting your abs as if you\u2019re trying to initiate a crunch. Doing so will put your lower back against the exercise mat.",
+                    "Squeeze your thigh muscles as your legs are together and lift your feet a couple of inches off the floor. Keep your legs straight.",
+                    "Lift your head a couple of inches off the floor and simultaneously extend your arms back behind your head and slightly up. Your lower back should contact the floor during the setup and as you hold in position afterward.",
+                    "Hold the position for as long as you can and breathe regularly. Aim for 20 to 30 seconds initially, and slowly work up to minute-long holds.",
+                    "Optional: As you hold this position, begin to rock back and forth gently. Your legs can elevate more as your upper back gets in contact with the floor and vice-versa."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Russian Twist (Bodyweight)",
+            "steps": [
+                [
+                    "Lay an exercise mat on the floor and sit down.\u00a0",
+                    "Bring your legs together, have your knees bent, and lift your feet a couple of inches off the floor.",
+                    "As you lift your feet, lean slightly back, engaging your midsection.",
+                    "Maintain a neutral spine and avoid arching your lower back.",
+                    "Bring your hands together and in front of your chest.",
+                    "Take a breath and twist your torso to the left while keeping your hips steady.",
+                    "Twist, squeezing your abs at the top of the repetition and holding the position for a moment.",
+                    "Rotate your upper body back to the starting position as you exhale and breathe in again as you rotate to the other side.",
+                    "Keep rotating from left to right while keeping your feet a couple of inches off the floor throughout the exercise."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/06871201-Russian-Twist_waist.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/12071201-Cable-twist-(down-up)_waist.mp4"
+            ]
+        },
+        {
+            "name": "Single Leg Hip Thrust",
+            "steps": [
+                [
+                    "Sit on a flat gym bench.",
+                    "Walk your feet out, bring your glutes toward the floor, and place your upper back against the bench.",
+                    "Bring your feet forward enough to bend your knees at a 90-degree angle and lift your buttocks to align your knees, hips, and shoulders.",
+                    "Have your feet planted firmly on the floor.",
+                    "Squeeze your glutes, engage your abs, and place the back of your upper arms against the bench for support.",
+                    "Raise one leg while keeping the knee bent at a 90-degree angle.",
+                    "Take a breath and lower your buttocks to the floor as you support yourself on one foot.",
+                    "Descend until your glutes are a few inches away from the floor. Pause for a moment, and drive through the heel to extend your hips and bring yourself to the top.\u00a0",
+                    "Once finished, plant the opposite foot on the floor, raise the other one in the air, and perform the same number of slow and controlled repetitions."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Knee Raise Parallel Bars",
+            "steps": [
+                [
+                    "Position yourself inside a captain\u2019s chair with your feet on a platform or steps, back against the pad, and forearms flat on the pair of padded parallel bars. Some chairs come with handles, which you should grab for extra support.",
+                    "Bring your shoulders back, engage your upper body, contract your abs, and take a breath.",
+                    "Step off the platform or steps to support yourself with your upper body musculature. Resist the urge to let your shoulders rise as your body slumps. Maintain the same position you do before stepping off.",
+                    "Once in position, take another breath and engage your abs to raise your knees as high as possible in one fluid motion. Ideally, your knees should rise to hip level or slightly more.",
+                    "Hold the top position for a moment, squeezing your abs as you do.",
+                    "Lower your knees to the starting position, extending them on the way down, and stop before your lower back begins to arch. Exhale near the bottom.",
+                    "Take another breath and raise your knees again."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/21261201-Captains-chair-leg-raise_Hips.mp4"
+            ]
+        },
+        {
+            "name": "Flutter Kicks",
+            "steps": [
+                [
+                    "Lie on the floor with your legs straight, arms to your sides, and palms flat against the ground.",
+                    "With your lower back in contact with the floor, take a breath and lift your feet several inches off the floor.",
+                    "Take another breath and begin moving your legs up and down alternatingly. Keep your movements short and crisp.",
+                    "Breathe as steadily as you can and go for as long as your abs allow you."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Lying Knee Raise",
+            "steps": [
+                [
+                    "Lie on the floor with your head, entire back, buttocks, and heels in contact with the ground.",
+                    "Place your hands to your sides with the palms planted on the floor for balance.",
+                    "Engage your abs, keep your lower back against the floor, and lift your heels a couple of inches off the floor.",
+                    "Take a breath and raise your knees to your chest as you bend them on the way up.\u00a0",
+                    "Hold the top position for a moment and lower your legs to the starting position as you extend your knees without letting your feet rest on the floor. Exhale on the way back.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/08571201-Wheel-Rollout_Waist.mp4"
+            ]
+        },
+        {
+            "name": "Leg Raise Parallel Bars",
+            "steps": [
+                [
+                    "Suspend your body on a pair of parallel bars with your back against the device\u2019s supporting pad and feet on the platform (if there is one).\u00a0",
+                    "Bend your arms and place your forearms flat against the horizontal pads with your hands grasping the handles for extra support.",
+                    "Bring your shoulders back and down by engaging your upper back.",
+                    "Remove your feet from the platform if the particular device has one.",
+                    "Brace your midsection, keep your upper body tense, and have your lower back against the back pad.",
+                    "Take a breath and raise your legs in one fluid motion by engaging your abs. Your knees should be almost entirely straight. You can cross your feet or keep them apart\u2013\u2013whichever feels more natural.",
+                    "Pause at the top as you squeeze your abs, then slowly lower your legs to the bottom.",
+                    "Exhale near the bottom and resist the urge to arch your lower back as you complete the repetition.",
+                    "Take another breath and raise your legs again."
+                ]
+            ],
+            "video": []
+        }
+    ],
+    "quadriceps": [
+        {
+            "name": "Kettlebell Goblet Squat",
+            "steps": [
+                [
+                    "Grab a kettlebell by the horns\u2013\u2013both sides of the handle with palms facing one another.",
+                    "Lift the weight in front of your chest with your elbows bent. Keep the kettlebell close to your body.",
+                    "Bring your shoulders back and position your feet in a comfortable stance with toes pointing slightly out.",
+                    "Take a breath and engage your abs.",
+                    "Descend by bending your knees and maintaining an upright torso as you move down.",
+                    "Squat until your thighs are parallel to the floor and your elbows are between your thighs.",
+                    "Hold the bottom position for a moment.",
+                    "Push through your heels to move up, keeping the kettlebell close to your body.",
+                    "Exhale as you straighten your legs.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Sumo Squat (barbell)",
+            "steps": [
+                [
+                    "Set the barbell at collarbone height.\u00a0",
+                    "Stand in front of the barbell and place your hands evenly over it, slightly wider than shoulder level apart.",
+                    "Tuck your head underneath and position your upper trapezius against the barbell.",
+                    "Plant your feet on the floor, take a breath, and extend your knees to unrack the barbell.",
+                    "Take a couple of steps back to clear enough space for safe squatting.",
+                    "Widen your stance as comfortably as you can and position your toes at a 45-degree angle. Ensure that your knees also point in the same direction.",
+                    "Bring your chest out, engage your abs, and take a breath.",
+                    "Descend as low as you comfortably can while keeping your heels in contact with the floor.",
+                    "Once you reach the bottom position, hold for a moment and press through your heels to squat back up. Exhale near the top.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/10631201-Barbell-sumo-squat_Thighs.mp4"
+            ]
+        },
+        {
+            "name": "Reverse Lunge",
+            "steps": [
+                [
+                    "Assume the starting position by standing tall with your shoulders back, abs tight, gaze directed forward, and hands on your hips.\u00a0",
+                    "Have your feet in a comfortable stance (roughly shoulder-width apart) with your toes pointing slightly out.",
+                    "Take a breath and bring the right leg back, landing on the ball of the right foot. Immediately sink into a lunge by bending your front leg.",
+                    "Descend until your front thigh is almost parallel to the floor and your rear knee is an inch or two from the floor. The stride length will vary from person to person, but you should avoid using short and extended steps. A good stance is when your front shin remains relatively vertical (knee over ankle) as you descend.",
+                    "Pause at the bottom and engage your front leg to bring yourself back to the top.",
+                    "Bring the right leg to the starting position, maintain the shoulder-width apart stance, and exhale as you reach the top.",
+                    "Take another breath and lunge back with your left leg, landing on the ball of your left foot.",
+                    "Keep alternating throughout the set and perform equal reps for both legs."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/10371201-Lever-Standing-Rear-Kick_Hips.mp4",
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03361201-Dumbbell-Lunge_Hips.mp4"
+            ]
+        },
+        {
+            "name": "Split Squat (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of dumbbells and get into the starting position with your feet in a comfortable stance, toes pointing slightly out, and arms extended and by your sides.",
+                    "Extend your right leg forward through a lunge and plant the foot. The ideal stance will vary from person to person, but you don\u2019t want to extend too far forward or plant the foot too close to your body.",
+                    "Take a breath and descend by bending your front knee and transferring weight onto the front foot while keeping the heel in contact with the floor. Leaning forward slightly isn\u2019t fatal, but your torso should remain upright.",
+                    "Move down until your back knee is a couple of inches from the floor, and pause at the bottom for a second. Your rear foot should serve to anchor you in position.",
+                    "Engage your quadriceps and squeeze your glutes to extend your front knee, bringing yourself to the top. Exhale as you move up.",
+                    "Take another breath and repeat.",
+                    "Once finished training the right leg, bring it back, lunge forward with your left one, and perform the same number of repetitions, using the same form."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/29601201-Dumbbell-Split-Squat_Thighs.mp4",
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03361201-Dumbbell-Lunge_Hips.mp4"
+            ]
+        },
+        {
+            "name": "Lunge (Barbell)",
+            "steps": [
+                [
+                    "Set the barbell over a squat stand and have it at collarbone height.",
+                    "Stand in front of the bar, reach forward and place your hands evenly over it.",
+                    "Tuck your head underneath the bar and place your trapezius muscle against it. Have your hands close or wide\u2013\u2013whichever feels more natural and secure.",
+                    "With your feet in line, tense your entire body, engage your abs, and take a breath.",
+                    "Extend your knees to unrack the barbell and take several careful steps back to clear enough room for lunges.",
+                    "Position your feet at a hip-width distance and take another breath.",
+                    "Lunge forward and plant your foot on the floor.\u00a0",
+                    "Immediately descend into a controlled lunge while keeping your upper body stable and barbell in position.",
+                    "Descend until your back knee is an inch or two from the floor. Your front knee should be at a 90-degree angle in that position.",
+                    "Hold the bottom position for a moment and press yourself back to the starting position by engaging your front quadricep. Exhale near the top.",
+                    "Have your feet in line again, take another breath, and lunge forward, extending the opposite leg.\u00a0",
+                    "Keep alternating from left to right until you finish the set.",
+                    "Once finished, walk forward to the barbell stand, position the bar over the rack and rest it on top."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00541201-Barbell-Lunge_Thighs.mp4"
+            ]
+        },
+        {
+            "name": "Sissy Squat",
+            "steps": [
+                [
+                    "Stand next to a squat rack or wall where you can hold on for balance.",
+                    "Bring your feet hip-width apart with toes pointing slightly out.",
+                    "Optional: Elevate your heels on a couple of weight plates or hexagonal dumbbells. Doing so will allow you to stay balanced as you learn the movement pattern. Alternatively, have your heels remain in the air.",
+                    "Engage your abs, bring your shoulders back, and take a breath.",
+                    "Begin the movement by bending your knees as you support yourself on the balls of your feet. Your heels should be elevated or hanging in the air.",
+                    "As you bend your knees, lean your torso back. You\u2019ll know you\u2019re doing this right when you manage to maintain a straight line between your knees, hips, and torso.",
+                    "Bend your knees and descend as low as your strength allows before extending your knees and going back to the top."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/08511201-Weighted-Sissy-Squat_Thighs.mp4"
+            ]
+        },
+        {
+            "name": "Goblet Squat",
+            "steps": [
+                [
+                    "Grab a moderately-heavy dumbbell and raise it in front of your torso with both arms while keeping it in a vertical position (with one side up).",
+                    "Position your hands to the sides of it with your palms placed firmly underneath the weight plates to prevent it from slipping through.",
+                    "Make sure that your back is neutral, and take a deep breath into your belly.",
+                    "Descend into a squat by breaking at the knees as you ensure that your torso remains as upright as possible. The goal here is to keep the weight directly over the center of gravity (the middle of your feet), preventing you from losing balance.",
+                    "Squat as comfortably as you can \u2013 ideally until your thighs are parallel with the floor.",
+                    "Push through your heels to raise yourself back to the starting position and exhale near the top of the repetition.",
+                    "Take another breath and squat again.",
+                    "Once you finish the set, carefully lower the dumbbell to the floor as you keep a firm grasp with both hands."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00431201-Barbell-Full-Squat_Thighs.mp4"
+            ]
+        },
+        {
+            "name": "Wall Sit",
+            "steps": [
+                [
+                    "Position your upper back flat against a wall. Your head, upper back, and butt should be in contact.",
+                    "Extend your legs forward several inches, position your feet at hip-width distance, and plant them firmly on the floor.",
+                    "Engage your core and slide down the wall while keeping your back in contact with it.",
+                    "Lower yourself until your knees are at a 90-degree angle, and your thighs are parallel to the floor. Your knees should be straight up from your ankles and in line with your hips. Your upper and lower back should remain in contact with the wall.",
+                    "Extend your arms forward for balance if you wish.",
+                    "Keep your midsection and glutes engaged throughout this movement, and make sure to take deep breaths.",
+                    "Once you\u2019re finished, slide up the wall by engaging your lower body and pushing through your heels, much like you would on a squat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Lunge (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of moderately-heavy dumbbells and bring them to your sides.",
+                    "With your arms straight and palms facing your thighs, bring your shoulders back, direct your gaze forward, and take a breath. Have your feet close to one another with your toes pointed slightly out.",
+                    "Bring your right leg forward, plant your foot firmly, and descend into a lunge by bending the knee.",
+                    "Go down as comfortably as you can \u2013 ideally until your right thigh is almost parallel with the floor and your left knee taps the ground lightly.",
+                    "Hold the position for a moment and, as you exhale, push through your right foot to kick yourself back to the starting position.",
+                    "Take another breath and step forward with your left leg to repeat the whole thing.",
+                    "Keep alternating between your right and left leg until you finish the set."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03361201-Dumbbell-Lunge_Hips.mp4"
+            ]
+        },
+        {
+            "name": "Jump Squat",
+            "steps": [
+                [
+                    "Stand tall with your feet at a hip-width level, and toes pointed slightly out.",
+                    "Bring your shoulders back and direct your gaze forward. You can have your torso leaning forward slightly.",
+                    "Take a breath and hinge at the hips to bring your butt back as you keep your back neutral and bend your knees to descend until your thighs are roughly parallel with the ground.",
+                    "As you\u2019re near the bottom, forcefully push through your feet to bolt yourself to the starting position. Make sure to press as hard as you can so that you gain velocity and transition from a squat into a vertical jump. Exhale as you jump.",
+                    "As you\u2019re about to land, bend your knees slightly, and immediately descend into another squat as you take another breath.",
+                    "Then, follow the same instructions to squat up and transition into another vertical jump."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05141201-Jump-Squat_Thighs.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03361201-Dumbbell-Lunge_Hips.mp4"
+            ]
+        }
+    ],
+    "calves": [
+        {
+            "name": "Seated Calf Raises",
+            "steps": [
+                [
+                    "Set your weight on the machine. Calf raise devices typically work with weight plates, but some offer the option to select your load with a pin.",
+                    "Adjust the thigh pad, so your thighs fit snugly as you position the balls of your feet on the platform. Doing so is vital for easier unracking and re-racking of the weight as you train.",
+                    "Place your lower thighs against the pad and position the balls of your feet on the platform. Your heels should hang in the air. Your shins should be vertical with your knees over your ankles.",
+                    "Engage your calves, take a breath, and grab the safety bar, which you\u2019ll be moving to the side in a moment.",
+                    "Extend your feet to raise the weight and release the safety bar to the side.",
+                    "Lower the weight as much as you can, allowing your heels to travel below the level of your toes. You should feel an intense calf stretch as you do.",
+                    "Press through the balls of your feet as you engage your calves and raise the weight. Go up as much as you can. You should feel your calves contracting.",
+                    "Exhale near the top and repeat."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05941201-Lever-Seated-Calf-Raise-(plate-loaded).mp4"
+            ]
+        },
+        {
+            "name": "Single Leg Standing Calf Raise (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a moderately-heavy dumbbell with your left hand and position your right foot on the calf raise platform. The front half of your foot should be on the platform, and your heel should be in the air. You can also perform this movement on stairs.",
+                    "Grab onto something for balance with your right hand, straighten your back and bend your left leg.",
+                    "Inhale and push through your right foot by engaging your calf. Elevate yourself as much as you can.",
+                    "Hold the top position for a second as you exhale and slowly lower yourself by allowing your ankle to flex.",
+                    "Go down as much as you can \u2013 you should feel an intense stretch in your calf muscle at the bottom.",
+                    "Keep repeating.",
+                    "Once you\u2019re finished, grab the dumbbell with your right hand and do the movement with your left leg."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/04171201-Dumbbell-Standing-Calf-Raise_Calves.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/07381201-Sled-45-Calf-Press_Calves.mp4"
+            ]
+        },
+        {
+            "name": "Calf Press (Machine)",
+            "steps": [
+                [
+                    "Lie on a leg press machine and extend your legs to the platform.",
+                    "Position the balls of your feet on the platform and have your heels remain in the air.",
+                    "Take a breath, push the platform to straighten your legs, and unlatch the safety bars of the leg press machine.",
+                    "In a controlled fashion, allow your ankles to flex while keeping your legs straight and heels in the same position. You should feel a stretch in your calves.",
+                    "Now, push through the balls of your feet to extend both ankles as much as you can and hold the contraction for a second before releasing.",
+                    "Keep repeating."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/07381201-Sled-45-Calf-Press_Calves.mp4",
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/04171201-Dumbbell-Standing-Calf-Raise_Calves.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05941201-Lever-Seated-Calf-Raise-(plate-loaded).mp4"
+            ]
+        }
+    ],
+    "lats": [
+        {
+            "name": "Sternum Pull up (Gironda)",
+            "steps": [
+                [
+                    "Stand underneath a pull-up bar, reach up, and grab it with an even, overhand grip (palms facing forward). Your hands should be shoulder-width apart or slightly more.",
+                    "Bring your shoulders back, engage your abs, and squeeze your glutes.",
+                    "Take a breath and pull yourself up. Bring your shoulder blades as far back as your strength and mobility allow as you go up.\u00a0",
+                    "Keep your midsection engaged and lean your torso back.",
+                    "Pull yourself up until your lower chest reaches the bar and hold the top position for a moment.",
+                    "Lower yourself with control and exhale on the way down.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Lat Pulldown (band)",
+            "steps": [
+                [
+                    "Attach an open-ended resistance band with handles above your head. For example, you can use a resistance band door anchor.",
+                    "Grab both handles with palms facing forward and get down on your knees to lengthen the band and create tension.",
+                    "Squeeze your glutes, engage your abs, and bring your shoulders back and down.\u00a0",
+                    "Take a breath and pull the resistance band down and toward your upper chest.",
+                    "Hold the contraction for a second and release both ends of the band slowly as you exhale. Extend your arms fully but avoid protracting your shoulders near the top.",
+                    "Take another breath and pull both ends of the band."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Pull Up",
+            "steps": [
+                [
+                    "Stand underneath a pull-up bar.",
+                    "Reach up and grab the bar with an even, overhand grip (palms facing forward). Have your hands slightly wider than shoulder level apart and envelop the bar with your thumbs for a more secure grip.",
+                    "Bring your shoulders back and engage your abs. Doing so will brace your upper body and put your lats in a better position to contribute during pull-ups.",
+                    "Bend your knees to lift your feet off the floor and hang from the bar. Some people might have to step over something or jump to grab the bar. In that case, retracting the shoulder blades will happen while they hang from the bar, mimicking the motion in a scapular pull-up.",
+                    "Take a breath and pull yourself up by bending your elbows.",
+                    "Move up as much as possible\u2013\u2013ideally, until your chin is over the pull-up bar.",
+                    "Hold the top position for a moment.",
+                    "Lower yourself slowly by extending your elbows and exhale on the way down. Keep your shoulders retracted.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/06521201-Pull-up_Back.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03271201-Dumbbell-Incline-Row_Back.mp4"
+            ]
+        },
+        {
+            "name": "Kipping Pull Up",
+            "steps": [
+                [
+                    "Stand tall with your body directly underneath the pull-up bar. Keep your feet together.",
+                    "Raise your arms up and to the bar with your palms facing forward.",
+                    "Descend into a quarter squat by bending your knees as you take a breath.",
+                    "Immediately squat up and jump vertically, grabbing the pull-up bar.",
+                    "Raise your legs slightly and bring your buttocks back as you grab the bar.",
+                    "Use the momentum you\u2019ve created by allowing your legs to swing back as your hips extend forward and your back moves into hyperextension.",
+                    "Continue leveraging the momentum you\u2019ve created by allowing your legs to swing forward again, bringing your buttocks back, and having your back move into a neutral and slightly flexed position.",
+                    "Bend your elbows to pull yourself up as you move into the position described in step number seven. Your chin should be at the bar level, and your body should be straight and tilted back, similar to an inverted row.",
+                    "Lower yourself immediately while keeping your body in the same tilted position.",
+                    "Once your elbows are nearly extended, allow your legs to drop and swing back as your buttocks travel back and your spine moves into hyperextension again.",
+                    "Swing your legs forward again and use the momentum to pull yourself up for the second repetition.",
+                    "Keep moving up and down, leveraging the momentum your body creates to complete your kipping pull-up repetitions."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Lat Pulldown (Cable)",
+            "steps": [
+                [
+                    "Adjust the knee pad on the machine to be right against your thighs without placing too much pressure on them.",
+                    "Adjust the pin to a weight you can comfortably lift for at least ten good repetitions.",
+                    "Stand up, and grab the handle with a slightly wider than shoulder-width overhand grip.",
+                    "Sit down and secure your legs underneath the pad.",
+                    "With your arms extended and holding the handle firmly, bring your shoulders back and down.",
+                    "Take a breath and pull the weight down through your elbows. Think of your hands as mere hooks for the weight \u2013 this will help with back activation.",
+                    "As you pull the weight down, make sure that your elbows remain tucked in and in line with your torso; avoid having them flare out and back behind your body.",
+                    "Pull the weight to your upper chest, hold the contraction for a moment and, as you exhale, extend your arms until your elbows are straight."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/01501201-Cable-Bar-Lateral-Pulldown_Back.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/06061201-Lever-T-bar-Row-(plate-loaded)_Back.mp4"
+            ]
+        },
+        {
+            "name": "Lat Pulldown (Machine)",
+            "steps": [
+                [
+                    "Sit down and adjust the pad for your thighs. It should be right on top of your thighs, but it shouldn\u2019t press too hard against them.",
+                    "Adjust the weight to be light enough for you to do at least ten repetitions.",
+                    "Stand up, grab the handles and sit back down, securing your thighs under the pad.",
+                    "Bring your shoulders back and down, engage your core, and take a breath.",
+                    "Pull the handles down by rowing through your elbows. As you pull, your elbows should remain in line with your torso instead of going back behind your body.",
+                    "Row until you feel a strong contraction in your lats, hold for a second and simultaneously exhale.",
+                    "Bring the handles to the starting position in a controlled fashion until you feel a stretch in your back muscles.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05791201-Lever-Front-Pulldown_Back.mp4"
+            ]
+        },
+        {
+            "name": "Single Arm Lat Pulldown",
+            "steps": [
+                [
+                    "Adjust the weight, so it\u2019s light enough for you to do at least ten smooth repetitions.",
+                    "Adjust the knee pad, so it\u2019s right against your thighs as you sit down.",
+                    "Reach up, grab the handle with one hand, sit down, and secure your thighs underneath the pad.",
+                    "With your arm straight, bring your shoulders back, engage your abs, and take a breath.",
+                    "Pull down and in until you feel a strong contraction in your back. Your elbows should be in line with your torso and shouldn\u2019t go behind your body. Imagine that your hand is the hook, and you\u2019re instead pulling the weight through your elbow.",
+                    "Hold the contraction for a moment as you exhale and slowly release the weight until your arm is straight and you feel a stretch.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05791201-Lever-Front-Pulldown_Back.mp4"
+            ]
+        }
+    ],
+    "lowerback": [],
+    "glutes": [
+        {
+            "name": "Lateral Leg Raises",
+            "steps": [
+                [
+                    "Stand in front of a chair, squat rack, or something else you can hold onto for balance.\u00a0",
+                    "Reach forward and grab the object with both hands.",
+                    "Bring your shoulders back, straighten your legs, and engage your abs.",
+                    "Shift your weight on your left foot.",
+                    "Take a breath and raise your right leg to the side while keeping the knee bent slightly.\u00a0",
+                    "Lift your leg laterally as much as your mobility, flexibility, and strength allow.",
+                    "Hold the top position for a second and bring your leg back to the starting position as you exhale.",
+                    "Keep raising the right leg until you get tired.",
+                    "Shift your weight to your right foot and raise your left leg for the same number of repetitions."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Glute Kickback on Floor",
+            "steps": [
+                [
+                    "Get down on all fours.\u00a0",
+                    "Position your shoulders, elbows, and wrists in a straight line with your palms flat on the floor. Have your hands roughly shoulder-width apart.",
+                    "Bend your knees and hips at a 90-degree angle. Your knees should be directly underneath your hips.",
+                    "Straighten your back by pulling your shoulder blades back but avoid arching your lower back. Aim for a neutral spine.",
+                    "Engage your abs, take a breath, and shift your weight slightly on your left knee.",
+                    "Raise your right leg back by engaging your glute, and have it do all of the work. Keep your knee bent at a 90-degree angle.",
+                    "Raise the leg until your thigh is parallel to the floor and in line with your torso.",
+                    "Hold the top position and bring that leg to the starting position as you exhale.",
+                    "Once finished on one side, shift your weight slightly to the right, and do the same number of reps with your left leg."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/14741201-Bent-Leg-Kickback-(kneeling)_Hips.mp4"
+            ]
+        },
+        {
+            "name": "Single Leg Glute Bridge",
+            "steps": [
+                [
+                    "Place an exercise mat and lie down with your arms to your sides and hands flat on the floor.",
+                    "Bend your knees and place your feet flat on the floor, a few inches away from your buttocks.",
+                    "Raise one leg in the air and bend the knee at a comfortable angle.",
+                    "Take a breath and press through the heel of your other foot, engaging your posterior chain to drive your hips in the air.",
+                    "Extend your hips until they are in line with your knee and shoulders.",
+                    "Hold the top position for a moment and lower your buttocks to the floor, exhaling on the way down.",
+                    "Perform as many slow and controlled reps as possible.",
+                    "Anchor the foot you previously had in the air and raise the opposite one.",
+                    "Perform the same number of repetitions and take a break."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/10371201-Lever-Standing-Rear-Kick_Hips.mp4"
+            ]
+        },
+        {
+            "name": "Hip Thrust",
+            "steps": [
+                [
+                    "Sit on the floor and position your upper back against the edge of a bench.",
+                    "Straighten your arms and rest them on the bench to your sides. You can have your palms flat on the bench for extra support.",
+                    "Bend your knees and plant your feet firmly on the floor. Your knees should point forward and up, not to the sides.",
+                    "Bring your shoulders back, make sure that your neck is in line with your torso, and take a breath.",
+                    "Engage your glutes and push through your hips and heels to raise your butt off the floor.",
+                    "Go up as much as you can \u2013 typically, as your hips become slightly more elevated than your shoulders.",
+                    "Hold the contraction for a moment and lower your butt to the floor as you exhale.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Glute Bridge",
+            "steps": [
+                [
+                    "Lie on the floor with your arms straight and to your sides. Place your palms flat on the floor.",
+                    "Bend your knees and plant your feet firmly on the floor.",
+                    "With your head, shoulders, and butt in contact with the floor, take a breath.",
+                    "Push through your heels, contract your glutes, and shoot your hips toward the ceiling until your knees, hips, and shoulders are in line.",
+                    "Hold the top position for a moment and exhale.",
+                    "Lower yourself to the starting position and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Fire Hydrants",
+            "steps": [
+                [
+                    "Position yourself on your arms and legs with your knees below your hips and your shoulders, elbows, and wrists in a vertical line. You can also keep your shins flat against the floor.",
+                    "Keep your palms flat on the floor, and maintain a neutral back.",
+                    "Once in position, flex your right leg without changing the knee angle. Simultaneously push into the floor with both hands to create a sturdy position.",
+                    "Breathe in, take the right leg out and bring it up to your side as far as your mobility allows and breathe out. Don\u2019t let your torso rotate with the leg \u2013 keep it in a stable position.",
+                    "Hold the top position for a second and slowly bring your right leg back to the starting position.",
+                    "Keep repeating the movement. Once you\u2019re done, do the same for your left leg."
+                ]
+            ],
+            "video": []
+        }
+    ],
+    "hamstrings": [
+        {
+            "name": "Stiff / straight leg deadlift",
+            "steps": [
+                [
+                    "Prepare your barbell and stand in front of it.",
+                    "Position your feet underneath the barbell. As you look down, it should seem like the barbell is cutting your feet in half.",
+                    "Have your feet at hip-width distance and toes pointing slightly out.",
+                    "Bend down and grab the barbell with an even overhand grip. Maintain a slight bend in your knees.",
+                    "Squeeze your shoulder blades to bring your chest out and straighten your back.\u00a0",
+                    "Engage your abs and take a breath.",
+                    "Pull the barbell in a straight vertical line.",
+                    "Lift the weight and drive your hips forward at the top. Don\u2019t hyperextend your lower back as you finish the repetition.",
+                    "Lower the barbell in the same straight line while staying braced. As you go down, resist the urge to bend your knees like you would on a conventional deadlift. Keep them slightly bent at all times."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/01161201-Barbell-Straight-Leg-Deadlift_Thighs.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00321201-Barbell-Deadlift_Hips-FIX.mp4"
+            ]
+        },
+        {
+            "name": "Deadlift (Dumbbell)",
+            "steps": [
+                [
+                    "Stand tall and position the pair of dumbbells parallel to your feet and have your feet hip-width apart. When seen from the top, the front weight plate of each dumbbell should be to the side of your mid-foot. Doing so is vital for having the dumbbells over your center of gravity as you start lifting them.",
+                    "Bend forward and grab the dumbbells while keeping your arm straight.",
+                    "Bring your chest out without lifting the dumbbells off the floor to put your spine into a neutral position.",
+                    "Take a breath and initiate the deadlift by pressing through your heels as you engage your upper body and legs.",
+                    "Lift the dumbbells in a straight vertical line, having them move to your sides.\u00a0",
+                    "Extend your hips and knees simultaneously, especially as the dumbbells pass the knee level, and continue up until you\u2019re in a standing position. Don\u2019t hyperextend your lower back at the top of the repetition.",
+                    "Finish the repetition by squeezing your glutes and thighs.",
+                    "Hold the top position for a moment and begin the descend by breaking at the hips and pushing your buttocks back.",
+                    "Lower the weights in the same straight line as you bend forward slowly and keep your spine in a neutral position.",
+                    "Exhale near the bottom.",
+                    "Brace your midsection, bring your chest out again, ensure that the dumbbells are in the correct position, and perform the next repetition with a full range of motion."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/14591201-Dumbbell-Romanian-Deadlift_Hips.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00321201-Barbell-Deadlift_Hips-FIX.mp4"
+            ]
+        },
+        {
+            "name": "Single Leg Romanian Deadlift (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of moderately-heavy dumbbells and stand tall with your feet hip-width apart and toes pointed slightly out.",
+                    "Bend your knees slightly, and bring your shoulders back.",
+                    "Lift one foot off the floor and bend the knee of your supporting leg a bit more for better gluteal activation.",
+                    "Take a breath and hinge at the hips as you keep your supporting leg in a static position. Your other leg should extend back, and your spine should remain neutral.",
+                    "Lower your torso until it becomes parallel with the floor. You should feel an intense stretch in your posterior muscles.",
+                    "Contract your glutes as you exhale and slowly raise your torso to the starting position by extending your hips forward as your back leg gets in line with the supporting one.",
+                    "Take a deep breath and repeat the motion. After that, do the same number of reps on your other leg."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Standing Leg Curls",
+            "steps": [
+                [
+                    "Adjust the pad of the machine to be right above your Achilles tendon. Start with a lighter weight to get a good feel for the movement.",
+                    "Lean forward on the machine by placing your thighs against the supportive pad, grab the handles, and have the back of your legs against the lower pad.",
+                    "Take a deep breath and plant your left foot firmly on the floor.",
+                    "Curl the weight up with your right leg by contracting your hamstring muscle.",
+                    "Go up until your foot becomes higher than your knee, and you feel a strong contraction in the back of your thighs.",
+                    "Hold the position for a second and exhale as you slowly lower the weight and extend your leg.",
+                    "Take another breath and repeat.",
+                    "Once you\u2019re done, plant your right foot and curl the weight with your left leg."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05991201-Lever-Seated-Leg-Curl_Thighs.mp4",
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05861201-Lever-Lying-Leg-Curl_Thighs.mp4"
+            ]
+        },
+        {
+            "name": "Deadlift (Band)",
+            "steps": [
+                [
+                    "Take a long resistance band with handles and step over it with both feet. Your feet should be about hip-width apart.",
+                    "Grab both handles evenly and stand tall. There should be a fair amount of tension in the resistance band.",
+                    "Bring your shoulders back, direct your gaze forward, and engage your abs and glutes.",
+                    "Take a breath and begin to lower your torso by bringing your butt back while keeping your shoulders back and spine in a neutral position. Your head should be in line with your torso.",
+                    "Once you\u2019ve lowered yourself a bit, also begin to bend your knees to get yourself to the bottom position.",
+                    "Deadlift with the resistance band by extending your hips forward and simultaneously straightening your knees. Keep your back in a neutral position.",
+                    "Once you\u2019re standing straight, take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Glute Ham Raise",
+            "steps": [
+                [
+                    "Tweak the glute ham raise machine until it fits you best. Specifically, the ankle pad should be right against your Achilles heel, and your knees should be on the front platform that will support your hips. If the machine has a foot platform, you should position both balls of the feet to push against it for extra support.",
+                    "With your torso upright, knees planted firmly, and ankles in a secure position, cross your arms in front of you, bring your shoulders back, and take a deep breath.",
+                    "From this position, go down as you simultaneously extend your knees and keep your back in a neutral position, and your hips should also remain in a rigid position.",
+                    "Go down as comfortably as you can \u2013 ideally until your knees are locked out, and exhale.",
+                    "Engage your posterior chain muscles and bring your torso back upright. You can think of this as a bodyweight curl that initiates from your back thigh muscles.",
+                    "Take another breath and bend forward again."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/22131201-Barbell-Romanian-Deadlift-(female)_Hips.mp4"
+            ]
+        },
+        {
+            "name": "Good Morning (Barbell)",
+            "steps": [
+                [
+                    "Set the bar up at around armpit height, and grip it evenly, slightly outside shoulder-width level.",
+                    "Tuck yourself under the bar and position it on your lower traps, around the level of your rear deltoids.",
+                    "Extend your upper back and press the bar against it with both hands. Keep your wrist straight and avoid having the bar rest on your hands.",
+                    "With your feet hip-width apart and firmly planted on the ground, push your hips forward, and unload the bar from its rack. Take a few steps back to clear enough space for the lift.",
+                    "With your back arched, bar firmly pressed against your back, and feet planted into the ground, take a breath and push your hips straight back.",
+                    "As you lower yourself, make sure to keep your back in a neutral position and instead think about pushing your butt back.",
+                    "Lower your torso as much as you can while keeping your back straight. You should feel an intense stretch in your posterior chain muscles. Near the bottom, you should allow for a slight bend in your knees.",
+                    "To get back up, initiate the movement by pushing your hips forward, thus \u2018unfolding\u2019 yourself."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00441201-Barbell-Good-Morning_Thighs.mp4"
+            ]
+        }
+    ],
+    "traps_middle": []
 }
