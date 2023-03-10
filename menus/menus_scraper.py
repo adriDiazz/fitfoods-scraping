@@ -33,14 +33,14 @@ def scrapeMeal(browser, result, meal):
     first_food_cal = browser.find_element(By.XPATH, first_div_cal_xpath)
     first_hover = ActionChains(browser).move_to_element(first_food_cal)
     first_hover.perform()
-    time.sleep(2)
+    time.sleep(5)
     first_food_cal = first_food_cal.get_attribute('data-original-title')
     first_food_cal = first_food_cal.split('<div class="tt_macro_amt">')[1].split('</div>')[0]
     if (second_div_cal_xpath != ''):
         second_food_cal = browser.find_element(By.XPATH, second_div_cal_xpath)
         second_hover = ActionChains(browser).move_to_element(second_food_cal)
         second_hover.perform()
-        time.sleep(2)
+        time.sleep(5)
         second_food_cal = second_food_cal.get_attribute('data-original-title')
         second_food_cal = second_food_cal.split('<div class="tt_macro_amt">')[1].split('</div>')[0]
 
@@ -87,7 +87,7 @@ def scrapeMenu(browser, result):
 
     regen_btn = browser.find_element(
         By.XPATH, '//*[@id="main_container"]/div/div[4]/div[1]/div[1]/div/div[1]/div/div[2]/div/span')
-    TIMES_TO_REGEN = 2
+    TIMES_TO_REGEN = 5
     for i in range(TIMES_TO_REGEN):
         regen_btn.click()
         time.sleep(8)
@@ -132,3 +132,5 @@ if __name__ == '__main__':
     CALORIES = 2000
 
     getDietByCalories(CALORIES, result)
+    with open('menus.json', 'w') as f:
+        json.dump(result, f, indent=4)

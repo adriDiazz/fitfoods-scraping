@@ -1,0 +1,185 @@
+{
+    "breakfast": [
+        {
+            "name": "Breakfast Mini Pizzas",
+            "grams": "176 7/10",
+            "cals": "314.2"
+        },
+        {
+            "name": "Nonfat greek yogurt",
+            "grams": "240",
+            "cals": "141.6"
+        },
+        {
+            "name": "Peach Raspberry Smoothie",
+            "grams": "382 11/20",
+            "cals": "333.2"
+        },
+        {
+            "name": "Nonfat yogurt",
+            "grams": "490",
+            "cals": "274.4"
+        },
+        {
+            "name": "Cheesy Scrambled Eggs With Scallions",
+            "grams": "247 7/20",
+            "cals": "373.1"
+        },
+        {
+            "name": "Fruit Salad",
+            "grams": "300",
+            "cals": "133"
+        },
+        {
+            "name": "Breakfast Burrito",
+            "grams": "362 15/17",
+            "cals": "402.1"
+        },
+        {
+            "name": "Whole Wheat Toast",
+            "grams": "28",
+            "cals": "70.6"
+        },
+        {
+            "name": "Breakfast Sandwich with Egg, Cheese, and Ham",
+            "grams": "158 10/19",
+            "cals": "297.6"
+        },
+        {
+            "name": "Banana Almond Butter",
+            "grams": "134",
+            "cals": "203.3"
+        }
+    ],
+    "lunch": [
+        {
+            "name": "Simple Spicy Garlic Shrimp",
+            "grams": "245 2/5",
+            "cals": "370.5"
+        },
+        {
+            "name": "Easy Refried Beans",
+            "grams": "459 7/19",
+            "cals": "188.9"
+        },
+        {
+            "name": "Prawn Stir Fry",
+            "grams": "366 7/10",
+            "cals": "295.1"
+        },
+        {
+            "name": "Garlic green beans",
+            "grams": "157 3/4",
+            "cals": "186.6"
+        },
+        {
+            "name": "Hawaiian BBQ Chicken Wraps",
+            "grams": "270 7/8",
+            "cals": "295.5"
+        },
+        {
+            "name": "Mixed Greens with Sliced Cucumber and Avocado",
+            "grams": "526 4/5",
+            "cals": "196.7"
+        },
+        {
+            "name": "Pork Medallions with Mustard-Caper Sauce",
+            "grams": "564 9/20",
+            "cals": "119.6"
+        },
+        {
+            "name": "Spinach, Ham, and Pear Salad",
+            "grams": "598 7/10",
+            "cals": "370.7"
+        },
+        {
+            "name": "Arugula Chicken Salad",
+            "grams": "445",
+            "cals": "356.1"
+        },
+        {
+            "name": "Microwaved sweet potato",
+            "grams": "260",
+            "cals": "159.8"
+        }
+    ],
+    "dinner": [
+        {
+            "name": "Simple Spicy Garlic Shrimp",
+            "grams": "245 2/5",
+            "cals": "279.1"
+        },
+        {
+            "name": "Easy Refried Beans",
+            "grams": "459 7/19",
+            "cals": "466.9"
+        },
+        {
+            "name": "Prawn Stir Fry",
+            "grams": "366 7/10",
+            "cals": "512.9"
+        },
+        {
+            "name": "Garlic green beans",
+            "grams": "157 3/4",
+            "cals": "162.3"
+        },
+        {
+            "name": "Hawaiian BBQ Chicken Wraps",
+            "grams": "270 7/8",
+            "cals": "419.1"
+        },
+        {
+            "name": "Mixed Greens with Sliced Cucumber and Avocado",
+            "grams": "526 4/5",
+            "cals": "319.6"
+        },
+        {
+            "name": "Pork Medallions with Mustard-Caper Sauce",
+            "grams": "564 9/20",
+            "cals": "486.8"
+        },
+        {
+            "name": "Spinach, Ham, and Pear Salad",
+            "grams": "598 7/10",
+            "cals": "319.8"
+        },
+        {
+            "name": "Arugula Chicken Salad",
+            "grams": "445",
+            "cals": "520.4"
+        },
+        {
+            "name": "Microwaved sweet potato",
+            "grams": "260",
+            "cals": "223.6"
+        }
+    ],
+    "snack": [
+        {
+            "name": "Cinnamon Flax Shake",
+            "grams": "400 1/10",
+            "cals": "238.2"
+        },
+        {
+            "name": "Yogurt with Pesto & Garbanzo Beans",
+            "grams": "248 1/3",
+            "cals": "245"
+        },
+        {
+            "name": "ALT (Avocado, Lettuce, and Tomato) Sandwiches",
+            "grams": "184 3/4",
+            "cals": "260.8"
+        },
+        {
+            "name": "Cinnamon Flax Shake",
+            "grams": "400 1/10",
+            "cals": "238.2"
+        },
+        {
+            "name": "Yogurt with Pesto & Garbanzo Beans",
+            "grams": "248 1/3",
+            "cals": "245"
+        }
+    ]
+}
