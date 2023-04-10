@@ -189,6 +189,22 @@
     ],
     "shoulders": [
         {
+            "name": "Handstand Push Up",
+            "steps": [
+                [
+                    "Stand in front of a wall, bend forward and place your hands flat on the floor. Your hands should be slightly wider than shoulder level apart and facing forward or slightly out. The tips of your fingers should be up to ten inches away from the wall.",
+                    "Brace your midsection by taking a breath and push through your feet to move up and against the wall. Keep your shoulders and arms engaged as you do so.",
+                    "With your body vertical and heels in contact with the wall, keep your midsection engaged and your spine in a neutral position. Keep your arms straight and chin tucked.",
+                    "Extend your knees fully and bring your legs together.",
+                    "With a rigid position from toes to fingers, take a breath and lower yourself slowly by bending your elbows.",
+                    "Go down as much as your strength allows and hold the bottom position for a moment.",
+                    "Press yourself back to the top, extending your elbows fully and exhaling.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
             "name": "Face Pull",
             "steps": [
                 [
@@ -294,6 +310,23 @@
         }
     ],
     "traps": [
+        {
+            "name": "Shrug (Barbell)",
+            "steps": [
+                [
+                    "Position the barbell on a rack at hip height.",
+                    "Stand in front of the bar and grab it with a double overhand grip. Have your hands slightly more than shoulder-width apart.",
+                    "Engage your abs, bring your shoulders back, and unrack the bar.",
+                    "Take a step back and position your feet in a comfortable stance with toes pointing slightly out.",
+                    "Take a breath and elevate the barbell by shrugging your shoulders. Keep your arms straight.",
+                    "Move the barbell as high as possible, squeezing at the top and holding for a moment.",
+                    "Lower the bar in the same controlled manner as you exhale."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00951201-Barbell-Shrug_Back.mp4"
+            ]
+        },
         {
             "name": "Upright Row (Barbell)",
             "steps": [
@@ -499,6 +532,22 @@
     "obliques": [],
     "abdominals": [
         {
+            "name": "Front Lever Raise",
+            "steps": [
+                [
+                    "Reach up and grab a bar with an even, overhand grip. Your hands should be shoulder-width apart and elbows extended.",
+                    "Extend your knees by flexing your quadriceps and bring your feet together.",
+                    "Maintain a neutral spine by flexing your midsection muscles. Avoid arching your lower back during any part of the front level raise.",
+                    "Flex your entire upper body and take a breath.",
+                    "With your body rigid, initiate the front lever raise by leaning back as you engage your lats and midsection.\u00a0",
+                    "Raise your entire body in a horizontal position by engaging your back, shoulders, and midsection musculature.",
+                    "Lift your body until you reach a horizontal position, hold for a moment, and descend to the starting position, exhaling near the bottom.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
             "name": "heel taps",
             "steps": [
                 [
@@ -642,26 +691,32 @@
             "video": [
                 "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/08571201-Wheel-Rollout_Waist.mp4"
             ]
-        },
-        {
-            "name": "Leg Raise Parallel Bars",
-            "steps": [
-                [
-                    "Suspend your body on a pair of parallel bars with your back against the device\u2019s supporting pad and feet on the platform (if there is one).\u00a0",
-                    "Bend your arms and place your forearms flat against the horizontal pads with your hands grasping the handles for extra support.",
-                    "Bring your shoulders back and down by engaging your upper back.",
-                    "Remove your feet from the platform if the particular device has one.",
-                    "Brace your midsection, keep your upper body tense, and have your lower back against the back pad.",
-                    "Take a breath and raise your legs in one fluid motion by engaging your abs. Your knees should be almost entirely straight. You can cross your feet or keep them apart\u2013\u2013whichever feels more natural.",
-                    "Pause at the top as you squeeze your abs, then slowly lower your legs to the bottom.",
-                    "Exhale near the bottom and resist the urge to arch your lower back as you complete the repetition.",
-                    "Take another breath and raise your legs again."
-                ]
-            ],
-            "video": []
         }
     ],
     "quadriceps": [
+        {
+            "name": "Sumo Deadlift",
+            "steps": [
+                [
+                    "Load the barbell and set it on the floor.",
+                    "Stand in front of the bar with your feet spread wide and toes pointing out. Your shins should be close to the bar but not in contact.",
+                    "Bend forward and grab the barbell with a double overhand grip (palms facing back). Your hands should be shoulder-width apart, with your elbows a few inches from the insides of your knees.",
+                    "Bring your shoulders back and lift your chest. Doing so will straighten your back, place your hips at the correct height, and bring your shins against the barbell. Set yourself to the barbell, don\u2019t bring the barbell to your body.",
+                    "With your body tense and arms straight, take a deep breath into your belly.",
+                    "Pull the barbell forcefully as you dig your heels into the floor.",
+                    "Extend your knees and hips as the barbell travels in a straight vertical line and close to your body.",
+                    "Squeeze your glutes at the top to complete the repetition but don\u2019t hyperextend your back, as doing so places unnecessary stress on your spine.",
+                    "Hold the top position for a moment.",
+                    "Lower the barbell in a controlled manner, making sure it descends in the same vertical line close to your thighs, knees, and finally\u2013\u2013shins.",
+                    "Set the barbell on the floor as you exhale.",
+                    "Retract your shoulder blades again, take another breath, and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/01171201-Barbell-Sumo-Deadlift_Hips.mp4",
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/05931201-Lever-Reverse-Hyperextension-(plate-loaded)_Hips.mp4"
+            ]
+        },
         {
             "name": "Kettlebell Goblet Squat",
             "steps": [
@@ -794,21 +849,6 @@
             "video": [
                 "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00431201-Barbell-Full-Squat_Thighs.mp4"
             ]
-        },
-        {
-            "name": "Wall Sit",
-            "steps": [
-                [
-                    "Position your upper back flat against a wall. Your head, upper back, and butt should be in contact.",
-                    "Extend your legs forward several inches, position your feet at hip-width distance, and plant them firmly on the floor.",
-                    "Engage your core and slide down the wall while keeping your back in contact with it.",
-                    "Lower yourself until your knees are at a 90-degree angle, and your thighs are parallel to the floor. Your knees should be straight up from your ankles and in line with your hips. Your upper and lower back should remain in contact with the wall.",
-                    "Extend your arms forward for balance if you wish.",
-                    "Keep your midsection and glutes engaged throughout this movement, and make sure to take deep breaths.",
-                    "Once you\u2019re finished, slide up the wall by engaging your lower body and pushing through your heels, much like you would on a squat."
-                ]
-            ],
-            "video": []
         },
         {
             "name": "Lunge (Dumbbell)",
