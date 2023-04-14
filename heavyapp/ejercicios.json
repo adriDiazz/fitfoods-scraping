@@ -189,6 +189,23 @@
     ],
     "shoulders": [
         {
+            "name": "Arnold Press (Dumbbell)",
+            "steps": [
+                [
+                    "Set the back support of an adjustable bench in an upright position, grab a pair of light dumbbells, and sit down.",
+                    "Lift the dumbbells and rest them on your thighs.",
+                    "Bring your shoulders back, engage your abs, and take a breath.",
+                    "In one motion, thrust the dumbbells as you kick them with your thighs, bringing them to your sides.",
+                    "Take a breath and press the dumbbells to an overhead position.",
+                    "Lower the dumbbells slowly as you gradually rotate your wrists in. You should end up with the dumbbells in front of your neck and chin with palms facing your body. Exhale near the bottom.",
+                    "Take another breath and press the dumbbells, rotating your wrists out to complete the repetition with your palms facing forward."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/02871201-Dumbbell-Arnold-Press-II_Shoulders.mp4"
+            ]
+        },
+        {
             "name": "Handstand Push Up",
             "steps": [
                 [
@@ -307,6 +324,173 @@
                 ]
             ],
             "video": []
+        }
+    ],
+    "triceps": [
+        {
+            "name": "Triceps Dip (Weighted)",
+            "steps": [
+                [
+                    "Attach a weight plate to yourself via a weight belt.",
+                    "Step up and position your feet on the two platforms to your sides.",
+                    "Grab the parallel bars firmly and have your arms to your sides with elbows extended.",
+                    "Bring your shoulder blades back and down.",
+                    "Engage your abs, squeeze your glutes, and take a breath.",
+                    "With your triceps engaged, remove your feet from the platforms to hang in the air.\u00a0",
+                    "Keep your torso upright and slowly bend your elbows to dip, taking care not to swing back and forth.",
+                    "Go down until your elbows are at or near a 90-degree angle.",
+                    "Press back up to the starting position, exhaling on the way up.",
+                    "Take another breath and repeat.",
+                    "Once finished, extend your legs to your sides and position your feet on the two platforms."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "One-Arm Tricep Extension (Dumbbell)",
+            "steps": [
+                [
+                    "Hold a light dumbbell in one hand. Have your arm straight and to your side.\u00a0",
+                    "Bring your shoulders back, direct your gaze forward, and engage your abs.",
+                    "Raise your arm and position the dumbbell over your head with your palm facing forward.\u00a0",
+                    "Take a breath and slowly lower the dumbbell by bending your elbow.",
+                    "Go down until the dumbbell is behind your head, and you feel a stretch in your tricep.",
+                    "Hold the bottom position for a second and extend your elbow fully to bring the dumbbell to the top. Exhale on your way up.",
+                    "Take another breath and repeat.",
+                    "Once you finish training one tricep, grab the dumbbell with your other hand, and do the same number of repetitions."
+                ]
+            ],
+            "video": [
+                " https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03621201-Dumbbell-One-Arm-Triceps-Extension-(on-bench)_Upper-Arms.mp4"
+            ]
+        },
+        {
+            "name": "Triceps Extension (barbell)",
+            "steps": [
+                [
+                    "Grab a barbell with an even, overhand grip, and have your hands shoulder-width apart.\u00a0",
+                    "Stand tall, curl the barbell, and position it in front of your chest, similar to how you would for an overhead press.",
+                    "Sit on a flat gym bench, engage your midsection muscles, and press the barbell above your head.\u00a0",
+                    "With your elbows pointing forward and to your sides, bring your shoulders back and position the barbell directly over your head.",
+                    "Take a breath and lower the barbell behind your head by bending your elbows. You should feel a stretch in your triceps.\u00a0",
+                    "Hold the bottom position for a moment and extend your elbows to lift the barbell, exhaling on the way up.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/00921201-Barbell-Seated-Overhead-Triceps-Extension_Upper-Arms.mp4"
+            ]
+        },
+        {
+            "name": "Skullcrusher (barbell)",
+            "steps": [
+                [
+                    "Adjust a gym bench to a flat position and place an empty barbell at your feet.",
+                    "Grab the barbell with an even, overhand grip and have your hands shoulder-width apart.",
+                    "With the barbell in your hands, thrust it up and hold it in front of your chest, similar to how you would hold it for an overhead press.",
+                    "Carefully sit on the bench and lie back as you simultaneously extend your arms.",
+                    "Once lying back, you should have a firm grasp on the barbell and have it over your chest with your elbows extended.",
+                    "Plant your feet on the floor, pinch your shoulder blades together, and position the barbell directly over your forehead. Put your wrists, elbows, and shoulders in a straight line.",
+                    "Take a breath and lower the barbell behind your head. You should feel a stretch in your triceps.",
+                    "Hold the bottom position for a second and extend your arms, exhaling on the way up."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Dumbbell Skullcrusher",
+            "steps": [
+                [
+                    "Grab a pair of light dumbbells and sit on the edge of a flat gym bench.",
+                    "Rest the dumbbells on your thighs and flex your arms for an extra secure grip.",
+                    "Bring your shoulders back, engage your abs, and lie back as you bring the dumbbells close to your chest.",
+                    "As you lie on the bench, extend your arms to position the dumbbells over your head. Keep your palms neutral (facing one another).",
+                    "Take a breath and lower the dumbbells to the sides of your face by bending your elbows.",
+                    "Bring the dumbbells down until your elbows are at a 90-degree angle and you feel a stretch in your triceps.",
+                    "Hold the bottom position for a moment and extend your elbows simultaneously, bringing the dumbbells to the top.",
+                    "Exhale near the top and contract your triceps.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Diamond Push Up",
+            "steps": [
+                [
+                    "Get down on all fours and bring your hands together. Your thumbs and index fingers should be in contact or just an inch apart, forming a diamond shape.",
+                    "Engage your core and extend your body, supporting your legs on your toes. Your hands should be underneath your lower chest.",
+                    "Squeeze your abs and glutes to put your spine in a neutral position and retract your shoulder blades. Your body should be in a straight line, with your shoulders, hips, and ankles aligned when seen from the side.",
+                    "Take a breath and descend by bending your elbows.",
+                    "Move down until your chest is a few inches off the floor, and pause for a moment.",
+                    "Extend your elbows to bring yourself back to the top position, straightening your arms fully.",
+                    "Take another breath and repeat."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Ring Dips",
+            "steps": [
+                [
+                    "Adjust the height of the rings to be at roughly stomach level.",
+                    "Stand between the rings and grab them with both hands.",
+                    "Keep your arms straight and elbows close to your body.",
+                    "Bring your shoulders back, engage your abs, and squeeze your glutes.",
+                    "Take a breath and raise your feet off the floor one at a time. Make sure you can stay balanced in this position before doing anything else.",
+                    "Once you\u2019re confident that you\u2019re stable enough, take another breath and begin to descend.",
+                    "Lower yourself gradually and go down until your elbows are somewhat bent and you feel a stretch in your chest.",
+                    "Press through your triceps and go back to the top gradually. Avoid explosive movements because these can lead to instability."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/12691201-Cable-Standing-Up-Straight-Crossovers_Chest.mp4"
+            ]
+        },
+        {
+            "name": "Triceps Extension (Suspension)",
+            "steps": [
+                [
+                    "Attach the TRX or other suspension system overhead, having the handles hanging at chest level or slightly lower. Experiment to see what height allows you to set up in the best way.",
+                    "Stand in front of the handles and grab them with your palms facing down.",
+                    "Engage your abs, squeeze your glutes, take a breath and lean forward, lifting your heels off the floor. Keep your elbows straight.",
+                    "Take another breath and lower yourself slowly by bending your elbows.\u00a0",
+                    "Go down until your elbows are at a 90-degree angle (to the point where your wrists are above your elbows). Hold the position for a moment.",
+                    "Extend your arms by engaging your triceps and bring yourself to the starting position as you exhale."
+                ]
+            ],
+            "video": []
+        },
+        {
+            "name": "Triceps Rope Pushdown",
+            "steps": [
+                [
+                    "Adjust the weight so you can do at least ten smooth repetitions, grab the rope on the cable station, and take a step back.",
+                    "Stand tall by bringing your shoulders back and directing your gaze forward. Your feet should be around hip-width apart, with your toes pointed slightly out. Keep your knees slightly bent.",
+                    "With your elbows bent at roughly 90 degrees, bring them down to your sides.",
+                    "Take a breath and extend both elbows by engaging your triceps.",
+                    "Once your arms are straight, hold the contraction for a second, exhale, and slowly release until your elbows are bent, and your wrists are slightly more elevated than your elbows.",
+                    "Inhale and repeat."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/02011201-Cable-Pushdown_Upper-Arms.mp4"
+            ]
+        },
+        {
+            "name": "Triceps Kickback",
+            "steps": [
+                [
+                    "Grab a light dumbbell and hold it to your side with your palm facing your thigh.",
+                    "Bring your torso forward as you push your butt back to maintain a neutral back.",
+                    "Lift your elbow to your side, inhale, and extend your arm by engaging your tricep.",
+                    "Once your arm is entirely straight, hold the contraction for a second, exhale, and slowly bring the dumbbell back down.",
+                    "Keep your shoulder and elbow in a stationary position throughout each repetition."
+                ]
+            ],
+            "video": [
+                "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03331201-Dumbbell-Kickback_Upper-Arms.mp4"
+            ]
         }
     ],
     "traps": [
