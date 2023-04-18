@@ -645,20 +645,6 @@
             ]
         },
         {
-            "name": "Pinwheel Curl (Dumbbell)",
-            "steps": [
-                [
-                    "Grab a pair of dumbbells and stand tall with your shoulders back, chest up, and eyes forward.",
-                    "Position both dumbbells slightly in front of your thighs with your palms facing in and back. Your wrists should be in line with your forearms.",
-                    "Take a breath and curl one dumbbell in toward your chest until it comes slightly higher than your elbow. Hold the position for a second.",
-                    "Exhale and lower the dumbbell to the starting position. Make sure to extend your elbow entirely.",
-                    "Repeat with your other arm.",
-                    "Keep repeating in an alternating fashion."
-                ]
-            ],
-            "video": []
-        },
-        {
             "name": "Bicep Curl (Dumbbell)",
             "steps": [
                 [
@@ -692,6 +678,20 @@
             "video": [
                 "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-assets/03121201-Dumbbell-Hammer-Curl-(version-2)_Upper-Arms.mp4"
             ]
+        },
+        {
+            "name": "Pinwheel Curl (Dumbbell)",
+            "steps": [
+                [
+                    "Grab a pair of dumbbells and stand tall with your shoulders back, chest up, and eyes forward.",
+                    "Position both dumbbells slightly in front of your thighs with your palms facing in and back. Your wrists should be in line with your forearms.",
+                    "Take a breath and curl one dumbbell in toward your chest until it comes slightly higher than your elbow. Hold the position for a second.",
+                    "Exhale and lower the dumbbell to the starting position. Make sure to extend your elbow entirely.",
+                    "Repeat with your other arm.",
+                    "Keep repeating in an alternating fashion."
+                ]
+            ],
+            "video": []
         },
         {
             "name": "Bicep Curl (Barbell)",
